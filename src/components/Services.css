@@ -1,0 +1,21 @@
+.services
+{
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(248, 253, 255, 1);
+    padding: 20px 50px;
+}
+.cards
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(248, 253, 255, 1);
+    padding: 20px 50px;
+}
+.sItem
+{
+    padding: 4%;
+    border: 1px solid red;
+    
+
+}

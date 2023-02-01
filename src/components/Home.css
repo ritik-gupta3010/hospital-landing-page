@@ -1,0 +1,41 @@
+
+.welcome
+{
+    display: flex;
+    background-color: rgba(248, 253, 255, 1);
+    padding: 20px 50px;
+}
+.text
+{
+    flex: 6;
+    margin-top: 5%;
+}
+.button
+{
+    display: flex;
+}
+.appointment
+{
+    flex: 6;
+    border-radius: 15px;
+    padding: 1%;
+    background-color:rgba(0, 127, 244, 1);
+    text-align: center;
+}
+.department
+{
+    flex: 6;
+    border-radius: 15px;
+    padding: 1%;
+    color:rgba(0, 127, 244, 1);
+    background-color: white;
+    text-align: center;
+}
+.card
+{
+    flex: 6;
+    background-color: #EBEEFF;
+    border-radius: 25px;
+    height: 400px;
+    margin: 0% 10%;
+}

@@ -1,0 +1,49 @@
+.innovative
+{
+    display: flex;
+    
+    padding: 20px 50px;
+}
+.text
+{
+    flex: 6;
+}
+.learn
+{
+    width: 25%;
+    border-radius: 15px;
+    padding: 1%;
+    background-color:rgba(0, 127, 244, 1);
+    text-align: center;
+}
+.iItem
+{
+    flex: 6;
+    display: flex;
+    
+
+}
+.iRight
+{
+    flex: 3;
+}
+.iTop
+{
+    padding: 8%;
+    border: 1px solid red;
+}
+.iBottom
+{
+    padding: 6%;
+    border: 1px solid red;
+}
+.iLeft
+{
+    flex: 3;
+}
+.box
+{
+    padding: 4%;
+    border: 1px solid red;
+    margin-top: 15%;
+}
