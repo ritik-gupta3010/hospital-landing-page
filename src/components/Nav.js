@@ -13,7 +13,7 @@ function Nav() {
             <div className="hItem">About</div>
             <div className="hItem">Services</div>
             <div className="hItem">News</div>
-            <div className="hItem">Contact</div>
+            <div className="hItemC">Contact</div>
         </div>
       </nav>
     </>

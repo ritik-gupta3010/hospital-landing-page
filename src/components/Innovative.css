@@ -7,6 +7,7 @@
 .text
 {
     flex: 6;
+    padding-top: 250px;
 }
 .learn
 {
@@ -29,21 +30,30 @@
 }
 .iTop
 {
-    padding: 8%;
-    border: 1px solid red;
+    height: 170px;
+    width: 250px;
+    box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.0725798);
+    margin-top: -110px;
+    border-radius: 10px;
 }
 .iBottom
 {
-    padding: 6%;
-    border: 1px solid red;
+    height: 170px;
+    width: 250px;
+    box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.0725798);
+    margin-top: -150px;
+    border-radius: 10px;
 }
 .iLeft
 {
     flex: 3;
+    margin-top: 170px;
 }
 .box
 {
-    padding: 4%;
-    border: 1px solid red;
-    margin-top: 15%;
+    height: 170px;
+    box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.0725798);
+    margin-top: -110px;
+    border-radius: 10px;
+    width: 250px;
 }

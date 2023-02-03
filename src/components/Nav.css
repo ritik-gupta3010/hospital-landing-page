@@ -17,4 +17,12 @@
 .hItem
 {
     color: #0073FF;
+    padding: 10px;
+}
+.hItemC
+{
+    background-color: #007FF4;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
 }

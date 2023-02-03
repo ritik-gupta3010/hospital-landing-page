@@ -4,11 +4,13 @@
     display: flex;
     background-color: rgba(248, 253, 255, 1);
     padding: 20px 50px;
+    text-align: center;
 }
-.text
+.text1
 {
     flex: 6;
-    margin-top: 5%;
+    /* margin-top: 5%; */
+    padding-top: 70px;
 }
 .button
 {

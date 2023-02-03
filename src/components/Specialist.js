@@ -11,10 +11,14 @@ function Specialist() {
         </p>
       </div>
       <div className="spCards">
-        <div className="spItem">Dental Care</div>
-        <div className="spItem">Pulmonary</div>
-        <div className="spItem">Neurological</div>
-        <div className="spItem">Prediatrics</div>
+        <div className="spItem">
+          <div style={{backgroundColor:'rgba(174, 211, 226, 1)',height:"250px",width:"250px",borderRadius:"10px"}}></div>
+          <div style={{padding: '15px'}}>Dr. Awaatif Ali</div> 
+          <div style={{padding: '15px'}}>Dental Care</div>
+        </div>
+        <div className="spItem"><div style={{backgroundColor:'rgba(174, 211, 226, 1)',height:"250px",width:"250px",borderRadius:"10px"}}></div><div style={{padding: '15px'}}>Dr. Filipa Gaspar</div><div>Pulmonary</div></div>
+        <div className="spItem"><div style={{backgroundColor:'rgba(174, 211, 226, 1)',height:"250px",width:"250px",borderRadius:"10px"}}></div><div style={{padding: '15px'}}>Dr. Sukhmeet Gorae</div><div>Neurological</div></div>
+        <div className="spItem"><div style={{backgroundColor:'rgba(174, 211, 226, 1)',height:"250px",width:"250px",borderRadius:"10px"}}></div><div style={{padding: '15px'}}>Dr. Siri jakobssan</div><div>Prediatrics</div></div>
       </div>
       </div>
     </>
